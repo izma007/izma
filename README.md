@@ -1,0 +1,2 @@
+# izma
+AI Course
